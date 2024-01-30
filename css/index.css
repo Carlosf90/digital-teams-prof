@@ -53,7 +53,7 @@ header .busca box-icon{
     position: absolute;
     right: 16px;
     top: 12px;
-    fill: var(--light-gray)
+    fill: var(--light-gray);
     cursor: pointer;
 
 }
